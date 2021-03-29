@@ -30,4 +30,14 @@ img {
 	margin-left: 1rem;
 }
 
+.hyperlinks {
+	padding: 2rem;
+	text-align: center;
+}
 
+p {
+	text-align: center;
+	padding: 1rem;
+	margin-left: 3rem;
+	margin-right: 3rem;
+}
