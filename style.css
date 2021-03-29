@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+  box-sizing: border-box;
+  background-color: #EEF0EB;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    font-family: "Moriston Personal Regular";
+	font-size: 12;
+}
+
+h1 {
+	font-family: Governor;
+	text-align: center;
+	font-size: 18;
+}
+
+img { 
+	max-width: 30%;
+	min-width: 10rem;
+	margin-top: .5rem;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+	margin-left: 1rem;
+}
+
+
